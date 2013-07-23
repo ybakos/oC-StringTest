@@ -29,7 +29,7 @@
 		F9B1BE551482F7A200F993F6 /* StringTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = StringTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9B1BE591482F7A200F993F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F9B1BE5C1482F7A200F993F6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		F9B1BE5F1482F7A200F993F6 /* StringTest-Prefix.pch */ = {isa = PBXFileReference; path = "StringTest-Prefix.pch"; sourceTree = "<group>"; };
+		F9B1BE5F1482F7A200F993F6 /* StringTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StringTest-Prefix.pch"; sourceTree = "<group>"; };
 		F9B1BE601482F7A200F993F6 /* StringTest.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = StringTest.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
