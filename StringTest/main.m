@@ -1,6 +1,8 @@
 //
 //  main.m
 //  StringTest
+//  A sketchbook for tinkering with NSString objects, under the influence of
+//  other languages (eg, Ruby).
 //
 //  Created by Yong Bakos on 11/27/11.
 //  Copyright (c) 2011 Human-Oriented Systems. All rights reserved.
@@ -9,7 +11,8 @@
 #import <Foundation/Foundation.h>
 
 /*
- * Chomp the newline character
+ * Chomp the newline character.
+ * Duck-punching a chomp method with an oC category.
  */
 @interface NSString (chomp)
 -(NSString *) chomp;
